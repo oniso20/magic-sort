@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-sort/static/css/main.69c949b1.css",
+    "main.js": "/magic-sort/static/js/main.63c2d7dc.js",
+    "index.html": "/magic-sort/index.html",
+    "main.69c949b1.css.map": "/magic-sort/static/css/main.69c949b1.css.map",
+    "main.63c2d7dc.js.map": "/magic-sort/static/js/main.63c2d7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c949b1.css",
+    "static/js/main.63c2d7dc.js"
+  ]
+}
